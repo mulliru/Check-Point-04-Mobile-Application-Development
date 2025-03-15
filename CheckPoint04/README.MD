@@ -15,7 +15,7 @@ Checkpoint 04 da matéria Mobile Application Development solicitado pelo profess
 1. **Clone o repositório**
    ```sh
    git clone https://github.com/mulliru/Check-Point-04-Mobile-Application-Development.git
-   cd seu-repositorio
+   cd Check-Point-04-Mobile-Application-Development.git\CheckPoint04
    ```
 2. **Instale as dependências**
    ```sh
